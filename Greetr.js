@@ -1,4 +1,4 @@
-(function(global, $) {
+;(function(global, $) {
 
   const Greetr = function(firstName, lastName, language) {
     return new Greetr.init(firstName, lastName, language);
